@@ -1,0 +1,25 @@
+File Structure
+
+API STRUCTURE:
+
+current folder Structure
+
+PYAPI(main folder)
+        ()myapp
+        ()app
+        ()dbsqlite3
+        ()manage.py
+
+Our Django API Structure follows:
+    myapp(main folder)
+        ()myapp
+        ()app
+                ()category
+                ()order
+                ()User
+                ()product
+                ()payment
+        ()dbsqlite3
+        ()manage.py
+
+        

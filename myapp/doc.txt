@@ -1,0 +1,14 @@
+1. django-admin startapp app: This creates the frontend part of the app example in project 'app'
+2. django-admin startproject: This creates the backend of the app example in project 'myapp'
+
+
+Push to github
+echo "# pyapi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/prrat/pyapi.git
+git push -u origin main
+
+
